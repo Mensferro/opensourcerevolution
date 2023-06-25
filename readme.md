@@ -15,7 +15,8 @@ This file contains all the documentation in english but hopefull in the future t
 - These instructions do not guarantuee the success or safety of anyone taking any actions based on these documents.
 - It is for inquiry purposes only.
 - This rules are subject to change to maintain it's original intent to guarantee freedom of opinion, speech and relations for all.
-
+</br>
+</br>
 ## Foundations of change
 
 **PHILOSOPHY**
@@ -30,8 +31,6 @@ Here are some key perspectives on the sociology and philosophy behind nonviolent
 - **Communication and persuasion:** Nonviolent resistance places importance on effective communication and persuasion. By engaging in peaceful actions and articulating their grievances, participants seek to sway public opinion, gain sympathy and support, and influence key decision-makers. The use of nonviolent methods can make it easier for broader segments of society to identify with the movement's goals and join in solidarity.
 - **Disruption and noncooperation:** Nonviolent resistance often involves disrupting the normal functioning of society or systems. Strikes, boycotts, sit-ins, and other forms of noncooperation can put pressure on those in power by challenging their authority, disrupting economic activities, and highlighting the demands of the movement. These actions aim to create a crisis or tension that prompts those in power to negotiate or address the issues at hand.
 - **Structural change and long-term impact:** Nonviolent resistance seeks not only short-term concessions but also long-term structural change. It recognizes that addressing systemic injustices requires challenging and transforming the underlying structures and institutions that perpetuate those injustices. By focusing on root causes and advocating for comprehensive changes, nonviolent resistance aims for sustainable and lasting impact.
-
-
 </br>
 </br>
 
@@ -76,7 +75,6 @@ However, with the onset of traditional and new media controle of the narrative h
 - **Develop alternative institutions:** Create parallel structures and institutions that demonstrate a viable alternative to the current regime. This can include grassroots organizations, community initiatives, or shadow governments, which showcase the movement's ability to govern effectively.
 - **Adapt and respond to challenges:** Remain flexible and adaptable to changing circumstances. Anticipate and address potential obstacles, such as repression, co-option, or internal divisions, with effective strategies and contingency plans.
 - **Transition and governance planning:** Devise a plan for a smooth transition of power after achieving the revolution's goals. Consider the formation of inclusive transitional bodies or mechanisms that can guide the country towards stability and democracy.
-</br>
 </br>
 
 **Communication strategy**
