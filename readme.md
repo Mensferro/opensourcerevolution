@@ -24,8 +24,6 @@ This file contains all the documentation in english but hopefull in the future t
 
 The main reason behind non-violent means is not only a moral one but moreover a practical one; In general non-violent movements have toppled authoritarian regimes, secured civil rights, and brought about significant social reforms. Nonviolent resistance can be particularly effective in certain contexts, such as when there is widespread public support, when it exposes the moral bankruptcy of the oppressors, or when it undermines the stability and legitimacy of oppressive regimes. 
 
-Nonviolent resistance, also known as civil resistance or nonviolent struggle, is a sociopolitical approach that seeks to effect change through peaceful means, such as protests, strikes, civil disobedience, and other nonviolent actions. It is rooted in various sociological and philosophical concepts and has been utilized by numerous social and political movements throughout history. 
-
 Here are some key perspectives on the sociology and philosophy behind nonviolent resistance:
 - **Power dynamics and moral authority:** Nonviolent resistance recognizes the dynamics of power in society and seeks to challenge oppressive systems and structures. It emphasizes the moral authority of the oppressed, aiming to expose and delegitimize unjust practices through nonviolent action. By refusing to engage in violence, participants uphold a higher moral ground, which can attract broader support and delegitimize the violent actions of oppressors.
 - **Collective action and social movements:** Nonviolent resistance often relies on collective action and social movements. It recognizes that people coming together and acting collectively have the potential to challenge and transform power structures. Through coordinated efforts, participants can mobilize significant social, economic, and political power, increasing their ability to effect change.
@@ -34,6 +32,12 @@ Here are some key perspectives on the sociology and philosophy behind nonviolent
 - **Structural change and long-term impact:** Nonviolent resistance seeks not only short-term concessions but also long-term structural change. It recognizes that addressing systemic injustices requires challenging and transforming the underlying structures and institutions that perpetuate those injustices. By focusing on root causes and advocating for comprehensive changes, nonviolent resistance aims for sustainable and lasting impact.
 </br>
 </br>
+
+However, it is important to recognize that success is not guaranteed, and the outcomes of nonviolent resistance movements can vary depending on multiple factors, including the nature of the regime, the level of repression, the tactics employed, and the strategic choices made by the movement. Nonviolent resistance may face challenges such as state repression, internal divisions, co-option, or violent backlash. Nonetheless, when conducted strategically and with mass participation, nonviolent resistance has the potential to be a powerful force for social and political change.
+
+</br>
+</br>
+
 
 **TRAITS**
 
