@@ -12,7 +12,6 @@ Here are some key perspectives on the sociology and philosophy behind nonviolent
 - **Disruption and noncooperation:** Nonviolent resistance often involves disrupting the normal functioning of society or systems. Strikes, boycotts, sit-ins, and other forms of noncooperation can put pressure on those in power by challenging their authority, disrupting economic activities, and highlighting the demands of the movement. These actions aim to create a crisis or tension that prompts those in power to negotiate or address the issues at hand.
 - **Structural change and long-term impact:** Nonviolent resistance seeks not only short-term concessions but also long-term structural change. It recognizes that addressing systemic injustices requires challenging and transforming the underlying structures and institutions that perpetuate those injustices. By focusing on root causes and advocating for comprehensive changes, nonviolent resistance aims for sustainable and lasting impact.
 </br>
-</br>
 
 However, it is important to recognize that success is not guaranteed, and the outcomes of nonviolent resistance movements can vary depending on multiple factors, including the nature of the regime, the level of repression, the tactics employed, and the strategic choices made by the movement. Nonviolent resistance may face challenges such as state repression, internal divisions, co-option, or violent backlash. Nonetheless, when conducted strategically and with mass participation, nonviolent resistance has the potential to be a powerful force for social and political change.
 
