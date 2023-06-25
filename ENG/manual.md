@@ -1,6 +1,15 @@
 
 # Foundations of change #
 
+Everyone has the right to be free. Free to express themselves and determine their own path without, of course, limiting the freedom of others.
+However, being free is not the same as being secure. Security is needed to make sure you can be free, not limiting your freedom.
+</br>
+
+
+The 21st century has brought on a whole new dynamic between inhabitants of a country and the policital body.
+Politics, and the science behind it, are getting more refined in controlling others outside the political body in the way information is controlled.
+
+
 **PHILOSOPHY**
 
 The main reason behind non-violent means is not only a moral one but moreover a practical one; In general non-violent movements have toppled authoritarian regimes, secured civil rights, and brought about significant social reforms. Nonviolent resistance can be particularly effective in certain contexts, such as when there is widespread public support, when it exposes the moral bankruptcy of the oppressors, or when it undermines the stability and legitimacy of oppressive regimes. 
