@@ -116,6 +116,8 @@ It is essential to exercise caution and assess the risks associated with your in
 ## HACKS & TRICKS
 
 
+## HISTORICAL EXAMPLES
+
 ### Examples Revolutions
 
 **Arab Spring (2010-2012):**
