@@ -4,9 +4,8 @@ Welcome! This document gives insight on how to succesfully stage non-violent rev
 
 ## Setup
 
-The basic repo contain a single file: ENG
-
-This file contains all the documentation in english but hopefull in the future there will be more files. 
+The basic repo contain, for now, a folder: ENG
+This folder contains the manual in english but hopefully in the future there will be more files in other languages. 
    
 # Conditions 
 - This reposity only lists non-violent means with exception regarding self-defence.
