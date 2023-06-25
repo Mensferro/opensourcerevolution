@@ -44,7 +44,8 @@ There are some common traits that can be observed across many successful revolut
 **STRATEGY**
 
 In general through history, peaceful and successful societal transformations typically involve strategic planning, broad-based support, effective communication, and the mobilization of various resources. 
-However, with the onset of traditional and new media controle of the narrative has had a major shift. So we have to two adress both: 
+
+However, with the onset of traditional and new media in the 21st century, controle of the narrative has had a major shift. So we will adress both: 
 1. The general, historical strategy.
 2. The communication and media strategy
 </br>
