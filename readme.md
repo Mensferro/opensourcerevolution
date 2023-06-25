@@ -17,7 +17,8 @@ This file contains all the documentation in english but hopefull in the future t
 - This rules are subject to change to maintain it's original intent to guarantee freedom of opinion, speech and relations for all.
 </br>
 </br>
-## Foundations of change
+
+## Foundations of change ##
 
 **PHILOSOPHY**
 
