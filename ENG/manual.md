@@ -95,6 +95,7 @@ However, it is important to strike a balance between information control and the
 </br>
 
 **Individual strategy: Repressive regimes**
+
 Living in a repressive dictatorship adds complexity and risk to individual actions aimed at supporting a revolution or movement for political change. It is crucial to prioritize personal safety and consider the specific context when taking steps to contribute. Here are some additional considerations for individuals living in such circumstances:
 
 - **Security and anonymity:** Protect your personal safety and maintain anonymity when engaging in activities that support the movement. Understand the surveillance and repression tactics used by the regime, and take necessary precautions to minimize the risks associated with your involvement. Use secure communication channels, encrypted messaging apps, and virtual private networks (VPNs) to safeguard your digital footprint.
